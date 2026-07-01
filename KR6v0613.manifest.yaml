@@ -1,0 +1,974 @@
+canonical_identifier: bkk:krp/KR6v0613/v1
+canonical_location: https://kanripo.org/bkk/KR6v0613/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 空之探究
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y38/Y38n0036.xml
+    old_id: Y38n0036
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0613_001.yaml, hash: 'sha256:007a31c61e41d801806b9d55135334a46a15683651852f5123aaf2e412469949'}
+  - {seq: 2, filename: KR6v0613_002.yaml, hash: 'sha256:1c7c6fe6e29a3bc18ea4067a650248577fc93532b97931e7a69ac45111a6ea8d'}
+  - {seq: 3, filename: KR6v0613_003.yaml, hash: 'sha256:fa56709fa84093abdea5128034d373fb99cfe1d92fe90418cdcd07c9ac346fa1'}
+  - {seq: 4, filename: KR6v0613_004.yaml, hash: 'sha256:98a84493e80f3aa6fc76fa22eddfa739618c48c3faa3ab25203837d4414c4947'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0613_001.markers.yaml, hash: 'sha256:0f8273a21056cf6c0f1b3aac0f62709605eee1285c07654192df33d24d3a4830'}
+  - {seq: 2, role: markers, filename: assets/KR6v0613_002.markers.yaml, hash: 'sha256:154d6f004e8991fdc0b72d91841dd035b3912c3df232a7a06cd9995b1a7db971'}
+  - {seq: 3, role: markers, filename: assets/KR6v0613_003.markers.yaml, hash: 'sha256:0dc5f24e8ab08e9e6c5b4790cee78c31036487eff2ca6fbb69a40fb97a6a8861'}
+  - {seq: 4, role: markers, filename: assets/KR6v0613_004.markers.yaml, hash: 'sha256:2d7534a0d6b6e3e0f83d847027edb6b264eef58bcd774163f8aa30693131342e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 25758
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-2
+    span:
+    - body
+    - 574
+    - 574
+  label: 第一章　《阿含》——空與解脫道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-3
+    span:
+    - body
+    - 584
+    - 584
+  label: 一　引言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-4
+    span:
+    - body
+    - 3679
+    - 3679
+  label: 二　泛說解脫道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-5
+    span:
+    - body
+    - 6388
+    - 6388
+  label: 三　空與心解脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-6
+    span:
+    - body
+    - 7775
+    - 7775
+  label: 四　無量
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-7
+    span:
+    - body
+    - 9155
+    - 9155
+  label: 五　無所有
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-8
+    span:
+    - body
+    - 11196
+    - 11196
+  label: 六　無相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-9
+    span:
+    - body
+    - 15119
+    - 15119
+  label: 七　空與空性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-10
+    span:
+    - body
+    - 18690
+    - 18690
+  label: 八　空為三三昧先導
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-11
+    span:
+    - body
+    - 19992
+    - 19992
+  label: 九　三三昧、三觸、三法印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0613_Y_001-mulu-12
+    span:
+    - body
+    - 22232
+    - 22232
+  label: 十　勝解觀與真實觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 19107
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第二章　部派——空義之開展
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 一　空義依聞思而開展
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-3
+    span:
+    - body
+    - 800
+    - 800
+  label: 二　勝義空與大空
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-4
+    span:
+    - body
+    - 2346
+    - 2346
+  label: 三　無來無去之生滅如幻
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-5
+    span:
+    - body
+    - 4525
+    - 4525
+  label: 四　聲聞學派之我法二空說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-6
+    span:
+    - body
+    - 8298
+    - 8298
+  label: 五　常空、我我所空
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-7
+    span:
+    - body
+    - 9216
+    - 9216
+  label: 六　三三摩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-8
+    span:
+    - body
+    - 10715
+    - 10715
+  label: 七　空之類集
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-9
+    span:
+    - body
+    - 12728
+    - 12728
+  label: 八　諸行空與涅槃空
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-10
+    span:
+    - body
+    - 14656
+    - 14656
+  label: 九　二諦與一切法空無我
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0613_Y_002-mulu-11
+    span:
+    - body
+    - 16455
+    - 16455
+  label: 十　大眾部系與法空
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-juan-start
+    span:
+    - body
+    - 0
+    - 20963
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第三章　《般若經》——甚深之一切法空
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 一　《般若經》之譯出
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-3
+    span:
+    - body
+    - 2048
+    - 2048
+  label: 二　法空性是涅槃異名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-4
+    span:
+    - body
+    - 3975
+    - 3975
+  label: 三　大乘《般若》與《阿含經》
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-5
+    span:
+    - body
+    - 6965
+    - 6965
+  label: 四　空之發展與類集
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-6
+    span:
+    - body
+    - 10075
+    - 10075
+  label: 五　空之解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-7
+    span:
+    - body
+    - 12577
+    - 12577
+  label: 六　空之雙關意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-8
+    span:
+    - body
+    - 13846
+    - 13846
+  label: 七　自性空與無自性空
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-9
+    span:
+    - body
+    - 16300
+    - 16300
+  label: 八　空與一切法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0613_Y_003-mulu-10
+    span:
+    - body
+    - 18613
+    - 18613
+  label: 九　法空如幻
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-juan-start
+    span:
+    - body
+    - 0
+    - 27718
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第四章　龍樹——中道緣起與假名空性之統一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 一　龍樹與龍樹論
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-3
+    span:
+    - body
+    - 2909
+    - 2909
+  label: 二　《中論》與《阿含經》
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-4
+    span:
+    - body
+    - 5554
+    - 5554
+  label: 三　《中論》之中心思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-5
+    span:
+    - body
+    - 6272
+    - 6272
+  label: 四　緣起——八不緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-6
+    span:
+    - body
+    - 11224
+    - 11224
+  label: 五　假名——受假
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-7
+    span:
+    - body
+    - 14607
+    - 14607
+  label: 六　空性——無自性空
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-8
+    span:
+    - body
+    - 19371
+    - 19371
+  label: 七　中道——中論與中觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-9
+    span:
+    - body
+    - 21295
+    - 21295
+  label: 八　如幻——即空即假之緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-10
+    span:
+    - body
+    - 22829
+    - 22829
+  label: 中文索引
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-11
+    span:
+    - body
+    - 22833
+    - 22833
+  label: 一畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-12
+    span:
+    - body
+    - 22995
+    - 22995
+  label: 二畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-13
+    span:
+    - body
+    - 23214
+    - 23214
+  label: 三畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-14
+    span:
+    - body
+    - 23524
+    - 23524
+  label: 四畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-15
+    span:
+    - body
+    - 24002
+    - 24002
+  label: 五畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-16
+    span:
+    - body
+    - 24245
+    - 24245
+  label: 六畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-17
+    span:
+    - body
+    - 24590
+    - 24590
+  label: 七畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-18
+    span:
+    - body
+    - 24762
+    - 24762
+  label: 八畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-19
+    span:
+    - body
+    - 25514
+    - 25514
+  label: 九畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-20
+    span:
+    - body
+    - 25612
+    - 25612
+  label: 十畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-21
+    span:
+    - body
+    - 25849
+    - 25849
+  label: 十一畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-22
+    span:
+    - body
+    - 26139
+    - 26139
+  label: 十二畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-23
+    span:
+    - body
+    - 26786
+    - 26786
+  label: 十三畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-24
+    span:
+    - body
+    - 26963
+    - 26963
+  label: 十四畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-25
+    span:
+    - body
+    - 27043
+    - 27043
+  label: 十五畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-26
+    span:
+    - body
+    - 27259
+    - 27259
+  label: 十六畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-27
+    span:
+    - body
+    - 27400
+    - 27400
+  label: 十七畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-28
+    span:
+    - body
+    - 27450
+    - 27450
+  label: 十八畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-29
+    span:
+    - body
+    - 27491
+    - 27491
+  label: 十九畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-30
+    span:
+    - body
+    - 27559
+    - 27559
+  label: 二十畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-31
+    span:
+    - body
+    - 27575
+    - 27575
+  label: 二一畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-32
+    span:
+    - body
+    - 27590
+    - 27590
+  label: 二二畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-33
+    span:
+    - body
+    - 27599
+    - 27599
+  label: 二三畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-34
+    span:
+    - body
+    - 27604
+    - 27604
+  label: 二五畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-35
+    span:
+    - body
+    - 27705
+    - 27705
+  label: 三三畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-36
+    span:
+    - body
+    - 27711
+    - 27711
+  label: 梵巴藏歐文索引
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-37
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ａ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-38
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｂ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-39
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｃ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-40
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｄ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-41
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｅ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-42
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｇ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-43
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｈ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-44
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｉ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-45
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｊ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-46
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｋ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-47
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｌ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-48
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｍ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-49
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｎ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-50
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｏ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-51
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｐ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-52
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｒ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-53
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｓ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-54
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｔ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-55
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｕ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-56
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｖ
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0613_Y_004-mulu-57
+    span:
+    - body
+    - 27718
+    - 27718
+  label: Ｙ
+  type: mulu
+  level: 1
+hash: sha256:440c56216a2981845867a2508bab9327e05e010b35ce6e44d20884950f3b5255
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
